@@ -66,7 +66,10 @@ func main() {
 	fmt.Printf("%v %T\n", my_name[1], my_name[1])
 	fmt.Printf("%v %T\n", string(my_name[1]), string(my_name[1]))
 
+	var into_the_byte = []byte(my_name)
+
 	var my_alter_name rune = 'i'
 	fmt.Printf("%v %T\n", my_alter_name, my_alter_name)
+	fmt.Println(into_the_byte)
 
 }
