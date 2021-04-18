@@ -1,5 +1,7 @@
 # dive deep into the golang!
 ## what i learned :
-* fmt and strconv modules 
-* variables declaring
+* Fmt and strconv modules 
+* Variables declaring
 * Logical primitive & Binary primitive
+* Constants
+* Arrays and slices
