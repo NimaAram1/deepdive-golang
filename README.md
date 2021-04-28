@@ -5,3 +5,4 @@
 * Logical primitive & Binary primitive
 * Constants
 * Arrays and slices
+* Maps & Structs with (reflect) package
