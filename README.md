@@ -6,3 +6,5 @@
 * Constants
 * Arrays and slices
 * Maps & Structs with (reflect) package
+* If statements
+* Loop statements
