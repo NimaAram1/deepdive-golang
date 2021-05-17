@@ -8,3 +8,6 @@
 * Maps & Structs with (reflect) package
 * If statements
 * Loop statements
+* Controlflows
+* Pointers
+* **functions**

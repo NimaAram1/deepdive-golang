@@ -26,4 +26,5 @@ func main(){
 	fmt.Println(sm.foo)
 
 
+
 }
